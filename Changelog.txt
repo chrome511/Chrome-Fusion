@@ -1,0 +1,22 @@
+Changelog:
+English Changelog under the German Changelog.
+
+GERMAN:
+--------------
+
+v1.00.00
+- Neue Benutzerlevel (Moderator & Super Moderator) hinzugefügt
+- SSL Verschlüsselung für SMTP Host
+- Siteadminemail (separate Email Adressen für den Seitenadministrator (Profil) und Emails vom System (Systememails)
+
+
+
+Changelog:
+
+English:
+--------------
+
+v1.00.00
+- New userlevel (Moderator & Super Moderator) added
+- SSL secure for SMTP host
+- Siteadminemail (separate e-mail addresses for the site admin (profil) and emails from the system)

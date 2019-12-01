@@ -1,0 +1,52 @@
+Changelog:
+English Changelog under the German Changelog.
+
+GERMAN:
+--------------
+v2.00.02
+- Links im user_info_panel jetzt unterstrichen
+- BUGFIX: Moderatoren können nun Rechte für die Infusionen gegeben werden
+- Admins können keine größeren bzw. gleichen Benutzerlevel (gegenseitig) mehr bearbeiten
+
+v2.00.01
+- Admins können sich nicht mehr selbst die Adminrechte editieren
+- BUGFIX: Moderatormenü wird nicht angezeigt im user_info_panel
+- Eingeloggt bleiben wird nun im Wartungsmodus und im User_info_panel angezeigt
+- Super Moderator hat jetzt zusätzlich die Rechte für Artikel, Artikel Kategorien, Forum, News, Umfrage und Benutzer Log zu den Standartrechten bekommen
+- Super Moderator kann standardmäßig keine Moderatorin mehr ernennen
+- Moderator hat jetzt zusätzlich die Rechte für Benutzer Log und Forum zu den Standartrechten bekommen
+
+v2.00.00
+- PHP7 mit MySQL/PDO Unterstützung
+
+v1.00.00
+- Neue Benutzerlevel (Moderator & Super Moderator) hinzugefügt
+- SSL Verschlüsselung für SMTP Host
+- Siteadminemail (separate Email Adressen für den Seitenadministrator (Profil) und Emails vom System (Systememails)
+
+
+
+Changelog:
+
+English:
+--------------
+v2.00.02
+- Links in the user_info_panel now underlined
+- BUGFIX: Moderators can now be given rights for the infusions
+- Admins can no longer edit greater or identical user levels (edit each other admins)
+
+v2.00.01
+- admins can not edit the admin rights themselves anymore
+- BUGFIX: Moderator menu is not displayed in the user_info_panel
+- Stay logged in is now displayed in maintenance mode and in the User_info_panel
+- Super Moderator now also has the rights for articles, article categories, forum, news, poll and user log to the standard rights
+- Super Moderator can no longer appoint a moderator by default
+- Moderator now also has the rights for user log and forum to the standard rights
+
+v2.00.00
+- PHP 7 with MySQL/PDO support
+
+v1.00.00
+- New userlevel (Moderator & Super Moderator) added
+- SSL secure for SMTP host
+- Siteadminemail (separate e-mail addresses for the site admin (profil) and emails from the system)
